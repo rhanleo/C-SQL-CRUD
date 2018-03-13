@@ -1,0 +1,12 @@
+D:\DotNetPro\SQLCRUD\SQLCRUD\bin\Debug\book.mdf
+D:\DotNetPro\SQLCRUD\SQLCRUD\bin\Debug\book_log.ldf
+D:\DotNetPro\SQLCRUD\SQLCRUD\bin\Debug\SQLCRUD.exe.config
+D:\DotNetPro\SQLCRUD\SQLCRUD\bin\Debug\SQLCRUD.exe
+D:\DotNetPro\SQLCRUD\SQLCRUD\bin\Debug\SQLCRUD.pdb
+D:\DotNetPro\SQLCRUD\SQLCRUD\obj\Debug\SQLCRUD.csprojResolveAssemblyReference.cache
+D:\DotNetPro\SQLCRUD\SQLCRUD\obj\Debug\SQLCRUD.Form1.resources
+D:\DotNetPro\SQLCRUD\SQLCRUD\obj\Debug\SQLCRUD.Properties.Resources.resources
+D:\DotNetPro\SQLCRUD\SQLCRUD\obj\Debug\SQLCRUD.csproj.GenerateResource.Cache
+D:\DotNetPro\SQLCRUD\SQLCRUD\obj\Debug\SQLCRUD.csproj.CoreCompileInputs.cache
+D:\DotNetPro\SQLCRUD\SQLCRUD\obj\Debug\SQLCRUD.exe
+D:\DotNetPro\SQLCRUD\SQLCRUD\obj\Debug\SQLCRUD.pdb
